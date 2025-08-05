@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class shuftCipher {
+public class shiftCipher {
     public static void main(String[] args) {
 
         //C = E(Pi) = (Pi+key)mod26  ( P(i) indicates the character of plain text at an index i)
